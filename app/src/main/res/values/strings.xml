@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">G7s21MJMTare6</string>
+    <string name="LIngresar">Ingresa tu cadena Gson</string>
+    <string name="txtGson" />
+    <string name="lNombre">Nombre:</string>
+    <string name="txtNombre">Ingresa un Nombre</string>
+    <string name="btnConvertir">Convertir a Datos</string>
+    <string name="lComida">Comida Favorita</string>
+    <string name="lColor">Color Favorito</string>
+    <string name="lNumero">Numero Fav:</string>
+    <string name="txtComida" />
+    <string name="txtColor" />
+    <string name="txtNumero" />
+</resources>
